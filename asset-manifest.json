@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/SquirtleHub2/static/css/main.d9668416.css",
+    "main.js": "/SquirtleHub2/static/js/main.a18c3095.js",
+    "static/js/787.fb771931.chunk.js": "/SquirtleHub2/static/js/787.fb771931.chunk.js",
+    "static/media/banner-bg.png": "/SquirtleHub2/static/media/banner-bg.eddd3a6028872c2b8442.png",
+    "static/media/color-sharp.png": "/SquirtleHub2/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/SquirtleHub2/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/SquirtleHub2/static/media/header-img.6333246c54f101c608c80d93ced6aa57.svg",
+    "static/media/CentraNo2-Bold.ttf": "/SquirtleHub2/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/SquirtleHub2/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/SquirtleHub2/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img3.png": "/SquirtleHub2/static/media/project-img3.e4b118951e602e4a430e.png",
+    "static/media/project-img1.png": "/SquirtleHub2/static/media/project-img1.1add41d60c783afab301.png",
+    "static/media/project-img2.png": "/SquirtleHub2/static/media/project-img2.74730764110a53ab2d2c.png",
+    "static/media/logo.png": "/SquirtleHub2/static/media/logo.5cf17d3bbd3f46ddf508.png",
+    "static/media/footer-bg.png": "/SquirtleHub2/static/media/footer-bg.20e3cef54362657e100e.png",
+    "static/media/pepe.gif": "/SquirtleHub2/static/media/pepe.260efa7038a5878b6757.gif",
+    "static/media/revicons.eot": "/SquirtleHub2/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/SquirtleHub2/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/SquirtleHub2/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/SquirtleHub2/static/media/meter2.165567738d3c023eb85d889c5ed92753.svg",
+    "static/media/meter1.svg": "/SquirtleHub2/static/media/meter1.641c5b11b878f4f7c47f4ed42d8404f6.svg",
+    "static/media/meter3.svg": "/SquirtleHub2/static/media/meter3.94240033f17a9c2dbf88262b4dcb3960.svg",
+    "static/media/logo.svg": "/SquirtleHub2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/SquirtleHub2/static/media/nav-icon3.c3d54b68c27dea6c2cd36baec3112827.svg",
+    "static/media/nav-icon2.svg": "/SquirtleHub2/static/media/nav-icon2.a0a4ee36d661d67aeeedf00adfdd6bf2.svg",
+    "static/media/nav-icon1.svg": "/SquirtleHub2/static/media/nav-icon1.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/SquirtleHub2/index.html",
+    "static/media/arrow2.svg": "/SquirtleHub2/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/SquirtleHub2/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.d9668416.css.map": "/SquirtleHub2/static/css/main.d9668416.css.map",
+    "main.a18c3095.js.map": "/SquirtleHub2/static/js/main.a18c3095.js.map",
+    "787.fb771931.chunk.js.map": "/SquirtleHub2/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9668416.css",
+    "static/js/main.a18c3095.js"
+  ]
+}
